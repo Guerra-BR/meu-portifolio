@@ -3,11 +3,15 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "dev": "parcel src/index.html src/styles/main.scss src/scripts/main.js",
+    "dev": "parcel src/content/index.html src/content/styles/main.scss src/content/scripts/main.js",
+    
     "build": "parcel build src/index.html"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3",
-    "parcel": "^2.9.3"
+    "parcel": "^2.9.3",
+    "particles.js": "^2.0.0"
   }
 }
+
+
