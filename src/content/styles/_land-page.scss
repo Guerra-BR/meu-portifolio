@@ -1,0 +1,10 @@
+@use 'variaveis';
+
+.land{
+    &__content{
+        width: 40vw;
+        background-color: red;
+        height: 100vh;
+        -webkit-transform: skew();
+    }
+}
