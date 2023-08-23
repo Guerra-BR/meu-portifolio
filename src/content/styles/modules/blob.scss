@@ -13,6 +13,7 @@
 }
 
 #seguidor{
+    position: absolute;
     animation: rotate 20s infinite;
     background: linear-gradient(
         to right,
@@ -20,7 +21,6 @@
         red
     );
     filter: blur(200px);
-    position: absolute;
     height: 250px;
     aspect-ratio: 1;
     left: 50%;
@@ -33,5 +33,4 @@
     height: 100%;
     width: 100%;
     position: absolute;
-    z-index: 2;
 }

@@ -12,7 +12,7 @@ document.addEventListener('mousemove', function(e){
     blob.animate({
         left: x + 'px',
         top: y + 'px'
-    }, {duration: 3000, fill: "forwards"})
+    }, {duration: 5000, fill: "forwards"})
 
 
 })
