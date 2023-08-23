@@ -1,5 +1,76 @@
 @use 'variaveis';
 
+@keyframes neon{
+    0%{
+        box-shadow: 0 0 2000 variaveis.$corLaranja;
+    }
+
+    10%{
+        box-shadow: 0 0 1000 variaveis.$corLaranja;
+    }
+
+    20%{
+        box-shadow: 0 0 500 variaveis.$corLaranja;
+    }
+
+    30%{
+        box-shadow: 0 0 1000 variaveis.$corLaranja;
+    }
+
+    40%{
+        box-shadow: 0 0 800 variaveis.$corLaranja;
+        transition: all .2s ease-in;
+    }
+
+    41%{
+        box-shadow: none;
+    }
+
+    42%{
+        box-shadow: 0 0 1000 variaveis.$corLaranja;
+    }
+
+    43%{
+        box-shadow: none;
+    }
+    
+    44%{
+        box-shadow: 0 0 700 variaveis.$corLaranja;
+    }
+
+    50%{
+        box-shadow: 0 0 2000 variaveis.$corLaranja;
+    }
+
+    60%{
+        box-shadow: 0 0 800 variaveis.$corLaranja;
+    }
+
+    70%{
+        box-shadow: 0 0 1200 variaveis.$corLaranja;
+    }
+
+    80%{
+        box-shadow: 0 0 1000 variaveis.$corLaranja;
+    }
+
+    81%{
+        box-shadow: none;
+    }
+
+    82%{
+        box-shadow: 0 0 900 variaveis.$corLaranja;
+    }
+
+    90%{
+        box-shadow: 0 0 700 variaveis.$corLaranja;
+    }
+
+    100%{
+        box-shadow: 0 0 1000 variaveis.$corLaranja;
+    }
+}
+
 .land{
     &__diagonal{
         left: -100px;
@@ -8,9 +79,9 @@
         background-color: black;
         width: 50vw;
         -webkit-transform: skew(15deg);
-        border-right: 0px variaveis.$corLaranja;
         border-left: 10px black;
-        box-shadow: 0 0 400 variaveis.$corLaranja;
+        box-shadow: 0 0 1000 variaveis.$corLaranja;
+        animation: neon 10s infinite;
 
         &__container{
             margin-left: 7vw;
