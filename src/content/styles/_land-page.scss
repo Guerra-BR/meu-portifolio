@@ -88,6 +88,16 @@
             -webkit-transform: skew(-15deg);
             height: 100vh;
             background-color: transparent;
+
+            h1{
+                font-size: 2em;
+                
+                &:hover{
+                    color: white;
+                }
+            }
+
+
         }
     }
 }
