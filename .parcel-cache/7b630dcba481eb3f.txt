@@ -1,4 +1,4 @@
-6139
+6143
 53C:\webPortifolio\node_modules\js-yaml\lib\type\str.js133372142673650376 0
 49C:\webPortifolio\src\content\scripts\lib\stats.js131349375810000000 0
 51C:\webPortifolio\node_modules\dotenv-expand\LICENSE133372142511324511 0
@@ -14,7 +14,7 @@
 88C:\webPortifolio\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\COPYRIGHT133372142499592801 0
 61C:\webPortifolio\node_modules\caniuse-lite\data\regions\SZ.js133372142841619900 0
 64C:\webPortifolio\node_modules\svgo\plugins\convertShapeToPath.js133372142621408383 0
-27C:\webPortifolio\.gitignore133372145587948745 0
+27C:\webPortifolio\.gitignore133372223348989507 0
 38C:\webPortifolio\node_modules\svgo\lib133372142721581883 1
 67C:\webPortifolio\node_modules\csso\node_modules\css-tree\lib\syntax133372142763791024 1
 61C:\webPortifolio\node_modules\caniuse-lite\data\regions\IT.js133372142822976534 0
@@ -22,7 +22,7 @@
 44C:\webPortifolio\node_modules\immutable\dist133372143289036525 1
 52C:\webPortifolio\node_modules\parent-module\index.js133372142487438496 0
 68C:\webPortifolio\node_modules\@parcel\watcher-win32-x64\package.json133372142487868499 0
-21C:\webPortifolio\dist133372215973330992 1
+21C:\webPortifolio\dist133372889105718490 1
 87C:\webPortifolio\node_modules\csso\node_modules\css-tree\cjs\syntax\node\WhiteSpace.cjs133372142742365873 0
 46C:\webPortifolio\node_modules\domutils\LICENSE133372142464776939 0
 63C:\webPortifolio\node_modules\electron-to-chromium\CHANGELOG.md133372142595114794 0
@@ -53,7 +53,7 @@
 82C:\webPortifolio\node_modules\css-select\node_modules\domutils\lib\manipulation.js133372142589327341 0
 73C:\webPortifolio\node_modules\caniuse-lite\data\features\ambient-light.js133372142664210510 0
 20C:\webPortifolio\src133372212042096177 1
-28C:\webPortifolio\src\content133372212140569752 1
+28C:\webPortifolio\src\content133372226128094111 1
 87C:\webPortifolio\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest2.c133372142711554165 0
 63C:\webPortifolio\node_modules\source-map\dist\source-map.min.js133372142631215151 0
 66C:\webPortifolio\node_modules\css-what\lib\commonjs\parse.d.ts.map133372142593172835 0
@@ -70,7 +70,7 @@
 53C:\webPortifolio\node_modules\nullthrows\package.json133372142473858181 0
 48C:\webPortifolio\node_modules\entities\readme.md133372142620714638 0
 59C:\webPortifolio\node_modules\react-refresh\build-info.json133372142576104777 0
-39C:\webPortifolio\src\content\index.html133372215222970388 0
+39C:\webPortifolio\src\content\index.html133372889159629834 0
 75C:\webPortifolio\node_modules\css-tree\lib\syntax\config\parser-selector.js133372142769068952 0
 43C:\webPortifolio\src\content\particles.json131349375810000000 0
 65C:\webPortifolio\node_modules\css-tree\lib\syntax\node\Comment.js133372142752085726 0
@@ -108,7 +108,7 @@
 69C:\webPortifolio\node_modules\caniuse-lite\data\features\innertext.js133372142819646661 0
 62C:\webPortifolio\node_modules\@swc\helpers\lib\_ts_decorate.js133372142769906433 0
 59C:\webPortifolio\node_modules\@swc\helpers\esm\_ts_param.js133372142770391393 0
-45C:\webPortifolio\src\content\styles\main.scss133372216676384975 0
+45C:\webPortifolio\src\content\styles\main.scss133372886230771077 0
 53C:\webPortifolio\node_modules\weak-lru-cache\index.js133372142505387584 0
 61C:\webPortifolio\node_modules\caniuse-lite\data\regions\SD.js133372142838031617 0
 82C:\webPortifolio\node_modules\lmdb\node_modules\node-addon-api\tools\conversion.js133372142596201319 0
@@ -124,14 +124,14 @@
 74C:\webPortifolio\node_modules\caniuse-lite\data\features\resizeobserver.js133372142836257985 0
 112C:\webPortifolio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\nth-last-of-type.js133372142726070207 0
 67C:\webPortifolio\node_modules\domelementtype\lib\esm\index.d.ts.map133372142560503977 0
-50C:\webPortifolio\src\content\styles\variaveis.scss133372216766716059 0
+50C:\webPortifolio\src\content\styles\variaveis.scss133372890103601102 0
 76C:\webPortifolio\node_modules\css-select\node_modules\entities\lib\decode.js133372142587098571 0
 106C:\webPortifolio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Function.js133372142703274103 0
 87C:\webPortifolio\node_modules\@parcel\optimizer-svgo\node_modules\csso\dist\csso.min.js133372142670623889 0
 58C:\webPortifolio\node_modules\semver\classes\comparator.js133372142550366951 0
 64C:\webPortifolio\node_modules\caniuse-lite\data\features\sdch.js133372142838035651 0
 62C:\webPortifolio\node_modules\htmlnano\docs\versioned_sidebars133372142702029109 1
-51C:\webPortifolio\src\content\styles\_land-page.scss133372216856148481 0
+51C:\webPortifolio\src\content\styles\_land-page.scss133372890184426848 0
 61C:\webPortifolio\node_modules\caniuse-lite\data\regions\LB.js133372142824724555 0
 77C:\webPortifolio\node_modules\@babel\helper-validator-identifier\package.json133372142580789635 0
 50C:\webPortifolio\node_modules\json5\dist\index.mjs133372142599950182 0
@@ -286,7 +286,7 @@
 48C:\webPortifolio\node_modules\lmdb\node-index.js133372142741514446 0
 66C:\webPortifolio\node_modules\@parcel\core\test\fixtures\bundle.js133372142697420718 0
 50C:\webPortifolio\node_modules\svgo\lib\svgo\coa.js133372142597971557 0
-41C:\webPortifolio\dist\content.4ce8c20f.js133372215973171416 0
+41C:\webPortifolio\dist\content.4ce8c20f.js133372889105668629 0
 81C:\webPortifolio\node_modules\csso\node_modules\css-tree\cjs\generator\create.cjs133372142626752434 0
 70C:\webPortifolio\node_modules\css-tree\cjs\syntax\node\index-parse.cjs133372142709978998 0
 61C:\webPortifolio\node_modules\css-tree\lib\tokenizer\index.js133372142765590476 0
@@ -410,7 +410,7 @@
 60C:\webPortifolio\node_modules\svgo\plugins\collapseGroups.js133372142599706497 0
 67C:\webPortifolio\node_modules\csso\node_modules\css-tree\cjs\parser133372142737656843 1
 43C:\webPortifolio\node_modules\nth-check\lib133372142632230756 1
-41C:\webPortifolio\dist\scripts\main.js.map133372215973211301 0
+41C:\webPortifolio\dist\scripts\main.js.map133372889070582665 0
 85C:\webPortifolio\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-musl.node133372142796917915 0
 61C:\webPortifolio\node_modules\csso\node_modules\css-tree\dist133372142771813058 1
 80C:\webPortifolio\node_modules\dom-serializer\node_modules\entities\lib\encode.js133372142516097219 0
@@ -1292,7 +1292,7 @@
 51C:\webPortifolio\node_modules\svgo\lib\svgo-node.js133372142712060295 0
 68C:\webPortifolio\node_modules\caniuse-lite\data\features\wordwrap.js133372142847878132 0
 65C:\webPortifolio\node_modules\css-select\lib\esm\pseudo-selectors133372142721995587 1
-37C:\webPortifolio\dist\scripts\main.js133372215973161433 0
+37C:\webPortifolio\dist\scripts\main.js133372889070345464 0
 61C:\webPortifolio\node_modules\caniuse-lite\data\regions\PE.js133372142832955906 0
 53C:\webPortifolio\node_modules\parse-json\package.json133372142499061043 0
 102C:\webPortifolio\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\README.md133372142561636096 0
@@ -1680,7 +1680,7 @@
 79C:\webPortifolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\module.c133372142709978998 0
 50C:\webPortifolio\node_modules\posthtml-render\dist133372142547337311 1
 62C:\webPortifolio\node_modules\nth-check\lib\esm\compile.js.map133372142590227715 0
-43C:\webPortifolio\dist\index.00a0aac0.js.map133372215973221274 0
+43C:\webPortifolio\dist\index.00a0aac0.js.map133372889070572689 0
 43C:\webPortifolio\node_modules\@parcel\graph133372142604488669 1
 53C:\webPortifolio\node_modules\posthtml-render\license133372142466234186 0
 83C:\webPortifolio\node_modules\@babel\highlight\node_modules\color-name\package.json133372142478194499 0
@@ -1770,7 +1770,7 @@
 49C:\webPortifolio\node_modules\js-tokens\README.md133372142526217158 0
 85C:\webPortifolio\node_modules\@babel\highlight\node_modules\color-name\.eslintrc.json133372142561722665 0
 47C:\webPortifolio\node_modules\picomatch\LICENSE133372142465123388 0
-32C:\webPortifolio\dist\index.html133372215973161433 0
+32C:\webPortifolio\dist\index.html133372889105708524 0
 75C:\webPortifolio\node_modules\@swc\helpers\_\_get_prototype_of\package.json133372142784282233 0
 54C:\webPortifolio\node_modules\css-what\lib\es\types.js133372142587098571 0
 49C:\webPortifolio\node_modules\picomatch\README.md133372142588265623 0
@@ -1926,7 +1926,7 @@
 69C:\webPortifolio\node_modules\csso\node_modules\css-tree\cjs\data.cjs133372142674286570 0
 86C:\webPortifolio\node_modules\csso\node_modules\css-tree\lib\syntax\node\WhiteSpace.js133372142772062001 0
 52C:\webPortifolio\node_modules\nth-check\lib\parse.js133372142566977650 0
-29C:\webPortifolio\dist\scripts133372215973261200 1
+29C:\webPortifolio\dist\scripts133372889070632536 1
 76C:\webPortifolio\node_modules\electron-to-chromium\full-chromium-versions.js133372142505891505 0
 60C:\webPortifolio\node_modules\domutils\lib\manipulation.d.ts133372142626471375 0
 100C:\webPortifolio\node_modules\css-select\node_modules\entities\lib\esm\generated\decode-data-html.js133372142534569901 0
@@ -1958,7 +1958,7 @@
 103C:\webPortifolio\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\slotted.js133372142737736853 0
 53C:\webPortifolio\node_modules\node-releases\README.md133372142547235775 0
 81C:\webPortifolio\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_copy.1133372142606277437 0
-37C:\webPortifolio\dist\styles\main.css133372216109104775 0
+37C:\webPortifolio\dist\styles\main.css133372889462352689 0
 65C:\webPortifolio\node_modules\node-releases\data\release-schedule133372142526502636 1
 64C:\webPortifolio\node_modules\@parcel\utils\test\input\sourcemap133372142735876179 1
 61C:\webPortifolio\node_modules\csso\node_modules\mdn-data\l10n133372142576351330 1
@@ -2814,6 +2814,7 @@
 54C:\webPortifolio\node_modules\domutils\lib\querying.js133372142567308916 0
 99C:\webPortifolio\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\api\inheritance.json133372142591489759 0
 82C:\webPortifolio\node_modules\@swc\helpers\_\_class_private_field_set\package.json133372142781457195 0
+47C:\webPortifolio\dist\index.00a0aac0.js.11940.l133372879800874951 0
 57C:\webPortifolio\node_modules\domutils\lib\stringify.d.ts133372142630544432 0
 53C:\webPortifolio\node_modules\browserslist\error.d.ts133372142586751214 0
 61C:\webPortifolio\node_modules\domutils\lib\stringify.d.ts.map133372142598476062 0
@@ -3033,6 +3034,7 @@
 85C:\webPortifolio\node_modules\csso\node_modules\css-tree\lib\parser\parse-selector.js133372142768309937 0
 47C:\webPortifolio\node_modules\boolbase\index.js133372142497774885 0
 74C:\webPortifolio\node_modules\caniuse-lite\data\features\pointer-events.js133372142834313310 0
+45C:\webPortifolio\dist\scripts\main.js.11940.o133372879800874951 0
 49C:\webPortifolio\node_modules\@parcel\workers\src133372142697338891 1
 75C:\webPortifolio\node_modules\csso\node_modules\css-tree\lib\lexer\error.js133372142756834058 0
 64C:\webPortifolio\node_modules\css-tree\cjs\lexer\match-graph.cjs133372142716883872 0
@@ -3362,7 +3364,7 @@
 89C:\webPortifolio\node_modules\caniuse-lite\data\features\background-repeat-round-space.js133372142709568998 0
 69C:\webPortifolio\node_modules\caniuse-lite\data\features\clipboard.js133372142734193542 0
 67C:\webPortifolio\node_modules\css-tree\cjs\syntax\config\walker.cjs133372142745874444 0
-45C:\webPortifolio\dist\content.4ce8c20f.js.map133372215973271202 0
+45C:\webPortifolio\dist\content.4ce8c20f.js.map133372889105708524 0
 65C:\webPortifolio\node_modules\css-tree\lib\lexer\generic-const.js133372142758364098 0
 59C:\webPortifolio\node_modules\css-tree\lib\lexer\generic.js133372142758525861 0
 57C:\webPortifolio\node_modules\css-tree\lib\lexer\index.js133372142763968392 0
@@ -3449,7 +3451,7 @@
 65C:\webPortifolio\node_modules\css-tree\cjs\syntax\scope\value.cjs133372142741769522 0
 66C:\webPortifolio\node_modules\css-tree\cjs\syntax\pseudo\index.cjs133372142713594455 0
 72C:\webPortifolio\node_modules\@swc\helpers\_\_object_spread\package.json133372142787593770 0
-41C:\webPortifolio\dist\styles\main.css.map133372216109124736 0
+41C:\webPortifolio\dist\styles\main.css.map133372889462372291 0
 65C:\webPortifolio\node_modules\css-tree\cjs\syntax\node\Atrule.cjs133372142531918415 0
 72C:\webPortifolio\node_modules\css-tree\cjs\syntax\node\AtrulePrelude.cjs133372142552118003 0
 76C:\webPortifolio\node_modules\css-tree\cjs\syntax\node\AttributeSelector.cjs133372142581667463 0
@@ -3613,6 +3615,7 @@
 80C:\webPortifolio\node_modules\css-select\node_modules\entities\lib\esm\encode.js133372142597361877 0
 82C:\webPortifolio\node_modules\css-select\node_modules\entities\lib\esm\escape.d.ts133372142712906334 0
 86C:\webPortifolio\node_modules\css-select\node_modules\entities\lib\esm\escape.d.ts.map133372142701166312 0
+47C:\webPortifolio\dist\index.df13034c.js.11940.m133372879800884919 0
 84C:\webPortifolio\node_modules\css-select\node_modules\entities\lib\esm\escape.js.map133372142702029109 0
 72C:\webPortifolio\node_modules\caniuse-lite\data\features\script-defer.js133372142837526264 0
 53C:\webPortifolio\node_modules\@trysound\sax\README.md133372142523843754 0
@@ -3873,7 +3876,7 @@
 52C:\webPortifolio\node_modules\color-convert\index.js133372142513895985 0
 51C:\webPortifolio\node_modules\color-convert\LICENSE133372142526674042 0
 56C:\webPortifolio\node_modules\color-convert\package.json133372142465123388 0
-43C:\webPortifolio\dist\index.c63dce47.js.map133372215973330992 0
+43C:\webPortifolio\dist\index.c63dce47.js.map133372889070632536 0
 122C:\webPortifolio\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133372142607566873 0
 53C:\webPortifolio\node_modules\color-convert\README.md133372142542336138 0
 46C:\webPortifolio\node_modules\clone\.npmignore133372142488947945 0
@@ -3934,6 +3937,7 @@
 74C:\webPortifolio\node_modules\@swc\helpers\_\_async_generator\package.json133372142774941903 0
 55C:\webPortifolio\node_modules\@lezer\lr\dist\stack.d.ts133372142588756558 0
 59C:\webPortifolio\node_modules\caniuse-lite\data\browsers.js133372142720061546 0
+47C:\webPortifolio\dist\index.c63dce47.js.11940.n133372879800894907 0
 66C:\webPortifolio\node_modules\caniuse-lite\data\browserVersions.js133372142721083201 0
 66C:\webPortifolio\node_modules\caniuse-lite\data\features\jpegxr.js133372142823470034 0
 60C:\webPortifolio\node_modules\@parcel\utils\src\sourcemap.js133372142716634469 0
@@ -5027,7 +5031,7 @@
 54C:\webPortifolio\node_modules\@parcel\utils\test\input133372142703437375 1
 67C:\webPortifolio\node_modules\@parcel\utils\test\objectHash.test.js133372142709228372 0
 80C:\webPortifolio\node_modules\@parcel\utils\test\replaceBundleReferences.test.js133372142715122895 0
-39C:\webPortifolio\dist\index.c63dce47.js133372215973161433 0
+39C:\webPortifolio\dist\index.c63dce47.js133372889070542766 0
 109C:\webPortifolio\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-child.js133372142725119468 0
 66C:\webPortifolio\node_modules\@parcel\utils\test\sourcemap.test.js133372142716883872 0
 65C:\webPortifolio\node_modules\@parcel\utils\test\throttle.test.js133372142719627227 0
@@ -6120,7 +6124,7 @@
 61C:\webPortifolio\node_modules\.bin\update-browserslist-db.ps1133372142852888698 0
 38C:\webPortifolio\dist\demo.55014176.js133372211648895597 0
 42C:\webPortifolio\dist\demo.55014176.js.map133372211649105046 0
-39C:\webPortifolio\dist\index.00a0aac0.js133372215973151468 0
+39C:\webPortifolio\dist\index.00a0aac0.js133372889070345464 0
 39C:\webPortifolio\dist\index.0a1e4f62.js133372196609300239 0
 39C:\webPortifolio\dist\index.21c1ccdb.js133372211648925517 0
 43C:\webPortifolio\dist\index.21c1ccdb.js.map133372211649134959 0
@@ -6132,9 +6136,9 @@
 43C:\webPortifolio\dist\index.c719088e.js.map133372203166718334 0
 39C:\webPortifolio\dist\index.ce30e97c.js133372197477812429 0
 43C:\webPortifolio\dist\index.ce30e97c.js.map133372197477915938 0
-39C:\webPortifolio\dist\index.df13034c.js133372215973161433 0
-43C:\webPortifolio\dist\index.df13034c.js.map133372215973221274 0
+39C:\webPortifolio\dist\index.df13034c.js133372889070532831 0
+43C:\webPortifolio\dist\index.df13034c.js.map133372889070602607 0
 39C:\webPortifolio\dist\index.f75de5e1.js133372203166578697 0
-28C:\webPortifolio\dist\styles133372216109134688 1
+28C:\webPortifolio\dist\styles133372889462372291 1
 47C:\webPortifolio\dist\webPortifolio.59712999.js133372203166588670 0
 51C:\webPortifolio\dist\webPortifolio.59712999.js.map133372203166718334 0

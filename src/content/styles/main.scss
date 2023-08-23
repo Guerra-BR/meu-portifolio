@@ -1,5 +1,6 @@
 @use 'variaveis';
 @use 'land-page';
+@use 'modules/blob';
 
 @font-face {font-family: "TacticSans-Reg"; 
   src: url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.eot"); src: url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.eot?#iefix") format("embedded-opentype"), 
@@ -21,8 +22,8 @@ table{border-collapse:collapse;border-spacing:0}
 hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
 input,select{vertical-align:middle}
 li{list-style:none}
-
 */
+
 
 
 *{
@@ -30,16 +31,11 @@ li{list-style:none}
   padding: 0;
   box-sizing: border-box;
   font-family: 'Source Code Pro';
+  color: white;
 }
 
-/* ---- particles.js container ---- */
-
-#particles-js{
-  width: 100%;
-  height: 100%;
+body{
   background-color: black;
-  /*background-image: url('');*/
-  background-size: cover;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
+  overflow-y: hidden;
 }
+
