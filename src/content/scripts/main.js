@@ -1,17 +1,19 @@
 document.addEventListener('DOMContentLoaded', function(){
-    window.scrollTo(0, 0)
-
-
+    
     document.addEventListener('mousemove', function(e){
         const blob = document.getElementById("seguidor")
         var x = e.clientX
         var y = e.clientY
     
-    
+        blob.style.display = 'block'
+        blob.classList.add('show')
+
         blob.animate({
             left: x + 'px',
             top: y + 'px'
         }, {duration: 5000, fill: "forwards"})
+
+        
     })
     
     const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";

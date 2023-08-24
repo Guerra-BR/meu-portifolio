@@ -12,21 +12,40 @@
     }
 }
 
+@keyframes aparecer{
+    from{
+        height: 0px;
+    }
+
+    to{
+        height: 250px;
+    }
+}
+
 #seguidor{
+    display: none;
     position: absolute;
-    animation: rotate 20s infinite;
     background: linear-gradient(
         to right,
         yellow,
         red
     );
     filter: blur(200px);
-    height: 250px;
     aspect-ratio: 1;
     left: 50%;
     top: 50%;
     translate: -50% -50%;
     border-radius: 50%;
+}
+
+.rotate{
+    animation: rotate 20s infinite;
+}
+
+.show{
+    animation: aparecer 7s forwards;
+    height: 250px;
+    display: block;
 }
 
 #blur{
