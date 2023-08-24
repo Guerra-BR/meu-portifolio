@@ -18,7 +18,7 @@
     }
 
     to{
-        height: 250px;
+        height: 200px;
     }
 }
 
@@ -36,16 +36,16 @@
     top: 50%;
     translate: -50% -50%;
     border-radius: 50%;
+    -webkit-transform: skew(-15deg);
 }
 
-.rotate{
-    animation: rotate 20s infinite;
+.anim-aparecer-rotate{
+    animation: aparecer 7s forwards, rotate 20s infinite;
 }
 
 .show{
-    animation: aparecer 7s forwards;
-    height: 250px;
     display: block;
+    height: 200px;
 }
 
 #blur{
