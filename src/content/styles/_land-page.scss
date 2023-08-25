@@ -96,14 +96,12 @@
         animation: neon 10s infinite;
 
         &__container{
-            margin-left: 7vw;
+            margin-left: 120px;
             -webkit-transform: skew(-15deg);
             height: 100vh;
             background-color: transparent;
 
-            h1{
-                font-size: 2em;
-                
+            h1{                
                 &:hover{
                     color: white;
                 }
@@ -113,10 +111,13 @@
 }
 
 .type{
-    border-right: 5px solid white;
+    letter-spacing: 2px;
+    border-right: 4px solid white;
     white-space: nowrap;
     overflow: hidden;
-    animation: typing 10s steps(14) infinite,
+    max-width: min-content;
+    width: 100%;
+    animation: typing 10s steps(40) infinite,
         cursor .4s step-end infinite alternate;
 }
 
