@@ -1,5 +1,15 @@
 @use 'variaveis';
 
+@keyframes border-rotate{
+    from{
+        rotate: 0deg;
+    }
+
+    to{
+        rotate: 360deg;
+    }
+}
+
 @keyframes neon{
     0%{
         box-shadow: 0 0 2000 variaveis.$corLaranja;
@@ -97,15 +107,22 @@
         animation: neon 10s infinite;
 
         &__container{
+            padding-left: 20px;
             margin-left: 120px;
             -webkit-transform: skew(-15deg);
             height: 100vh;
             background-color: transparent;
 
-            h1{              
+            h1{           
+                margin-bottom: 16px;
                 &:hover{
                     color: white;
                 }
+            }
+
+            .portifolio{
+                margin-top: 80px;
+                margin-bottom: 100px;
             }
         }
     }
@@ -118,8 +135,42 @@
     overflow: hidden;
     max-width: min-content;
     width: 100%;
-    animation: typing 5s steps(40) infinite,
-        cursor .5s step-end infinite alternate;
+
+    &-fs{
+        animation: typing 5s steps(55) 1,
+            cursor .5s step-end infinite alternate;
+    }
+
+    &-tm{
+        animation: typing 5s steps(55) 1,
+            cursor .5s step-end infinite alternate;
+    }
+}
+
+.preview{
+    top: calc(50% - 120px);
+    right: 20%;
+    position: absolute;
+    
+    .circle{
+        position: absolute;
+        height: 140px;
+        width: 140px;
+        background-color: red;
+        border: 6px solid blue;
+    }
+    
+    img{
+        border-radius: 50%;
+    }
+
+    h3, h4{
+        text-align: center;
+    }
+
+    h4{
+        font-size: 12px;
+    }
 }
 
 
@@ -134,8 +185,8 @@
     background-repeat: no-repeat;
 }
 
-
-
-
 .music{
+    position: absolute;
+    bottom: 20px;
+    left: 10px;
 }
