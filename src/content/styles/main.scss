@@ -3,6 +3,8 @@
 @use 'modules/blob';
 @use 'modules/glitch';
 
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
 @font-face {font-family: "TacticSans-Reg"; 
   src: url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.eot"); src: url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.eot?#iefix") format("embedded-opentype"), 
   url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.woff") format("woff"), url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/28c0ba929947563500b21da15a88c6fe.svg#TacticSans-Reg") format("svg"); }
@@ -32,6 +34,10 @@ body{
 
 .tactic{
   font-family: "TacticSans-Reg";
+}
+
+.bi{
+  display: inline;
 }
 
 .hidden{

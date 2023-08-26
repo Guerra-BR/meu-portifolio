@@ -4,7 +4,6 @@
   "description": "",
   "scripts": {
     "dev": "parcel src/content/index.html src/content/styles/main.scss src/content/scripts/main.js",
-    
     "build": "parcel build src/index.html"
   },
   "devDependencies": {
@@ -13,5 +12,3 @@
     "particles.js": "^2.0.0"
   }
 }
-
-
