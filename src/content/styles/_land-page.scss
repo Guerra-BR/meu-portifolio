@@ -166,9 +166,10 @@
     position: absolute;
     
     .img-container{
-        position: relative;
 
         img{
+            max-width: 200px;
+            width: 100%;
             border-radius: 50%;
             border-color: variaveis.$corLaranja;
             box-shadow: 0 0 256px variaveis.$corLaranja;

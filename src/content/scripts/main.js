@@ -1,4 +1,19 @@
 document.addEventListener('DOMContentLoaded', function(){
+  const userName = document.getElementById('github-name')
+  const profileImage = document.getElementById('github-avatar')
+  const tag = document.getElementById('github-username')
+  const link = document.getElementById('github-link')
+
+  fetch('https://api.github.com/users/Guerra-BR')
+        .then(function(res){
+            return res.json()
+        })
+        .then(function(json){
+            userName.innerText = json.name
+            profileImage.src = json.avatar_url
+            tag.innerText = json.login
+            link.href = json.html_url
+        })
   
   document.addEventListener('mousemove', function(e){
 
