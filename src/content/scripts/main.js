@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', function(){
   
   let interval = null;
   
-  document.querySelector("h1").onmouseover = event => {  
+  document.querySelector("h1").onclick = event => {  
     let iteration = 0;
     
     clearInterval(interval);
