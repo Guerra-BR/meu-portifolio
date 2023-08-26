@@ -119,7 +119,7 @@
     max-width: min-content;
     width: 100%;
     animation: typing 5s steps(40) infinite,
-        cursor .4s step-end infinite alternate;
+        cursor .5s step-end infinite alternate;
 }
 
 
@@ -127,7 +127,7 @@
 #particles-js{
     width: 100%;
     height: 100vh;
-    background-color: #151515;
+    background-color: #020202;
     /*background-image: url('');*/
     background-size: cover;
     background-position: 50% 50%;
@@ -138,5 +138,4 @@
 
 
 .music{
-    margin-top: 100px;
 }
