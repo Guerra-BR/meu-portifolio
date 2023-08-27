@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "parcel src/content/index.html src/content/styles/main.scss src/content/scripts/main.js",
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/content/index.html"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.3",
